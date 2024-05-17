@@ -1,5 +1,5 @@
 #!/bin/bash
-"""DENYS CARBINI - LM BIOINFORMATICS - LAB1 PROJECT"""
+"""DENYS CARBINI - LM BIOINFORMATICS - LB1 PROJECT"""
 
 #AIM: Implement a HMM representing Kunitz Domain based on MSA based on structural information.
 
